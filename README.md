@@ -3,6 +3,9 @@ This repository hosts the ISO 2700x Compliance Assessment Tool, a structured Exc
 
 ![image](https://github.com/user-attachments/assets/2b5197ec-f442-40fc-aed1-fc365c882f6d)
 
+![image](https://github.com/user-attachments/assets/806ff7f4-c96c-4e97-8527-d535d04a6e32)
+
+
 Each sheet corresponds to a specific standard and domain, providing detailed criteria and scoring for a holistic compliance review.
 Key features include:
 - Support for multiple ISO standards and domains.
